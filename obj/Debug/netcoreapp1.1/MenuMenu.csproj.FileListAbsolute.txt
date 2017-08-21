@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\bin\Debug\netcoreapp1.1\MenuMenu.deps.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\bin\Debug\netcoreapp1.1\MenuMenu.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\bin\Debug\netcoreapp1.1\MenuMenu.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\bin\Debug\netcoreapp1.1\MenuMenu.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\bin\Debug\netcoreapp1.1\MenuMenu.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\obj\Debug\netcoreapp1.1\MenuMenu.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\obj\Debug\netcoreapp1.1\MenuMenu.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\obj\Debug\netcoreapp1.1\MenuMenu.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\FirstCoreSolution\MenuMenu\obj\Debug\netcoreapp1.1\MenuMenu.pdb
